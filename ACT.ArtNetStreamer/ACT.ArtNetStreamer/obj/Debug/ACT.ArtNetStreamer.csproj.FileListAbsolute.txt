@@ -1,0 +1,11 @@
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\obj\Debug\ACT.ArtNetStreamer.csproj.CoreCompileInputs.cache
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\ACT.ArtNetStreamer.exe.config
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\ACT.ArtNetStreamer.exe
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\ACT.ArtNetStreamer.pdb
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\Newtonsoft.Json.xml
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\obj\Debug\ACT.ArtNetStreamer.csproj.CopyComplete
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\obj\Debug\ACT.ArtNetStreamer.exe
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\obj\Debug\ACT.ArtNetStreamer.pdb
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\bin\Debug\template.png
+C:\GIT\ACT.ArtNetStreamer\ACT.ArtNetStreamer\ACT.ArtNetStreamer\obj\Debug\ACT.ArtNetStreamer.csprojAssemblyReference.cache
